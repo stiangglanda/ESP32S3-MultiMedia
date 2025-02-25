@@ -1,15 +1,13 @@
 # ESP32S3-MultiMedia
 
 A portable multimedia device based on the ESP32-S3 microcontroller with a touch screen interface and multiple integrated peripherals.
+![PXL_20250215_034733253](https://github.com/user-attachments/assets/bd52f32a-f456-4ef7-8671-1693b9e95e43)
 
 ## Project Overview
 
 ESP32S3-MultiMedia combines hardware and software to create a smartphone-like experience with a range of applications accessible through a touch interface. The project demonstrates the capabilities of the ESP32-S3 for multimedia applications and sensor integration.
 
-
 https://github.com/user-attachments/assets/e9c8f42a-1456-476b-8774-80f681d50dbd
-
-
 
 ## Features
 
