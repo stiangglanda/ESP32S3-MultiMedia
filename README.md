@@ -6,6 +6,11 @@ A portable multimedia device based on the ESP32-S3 microcontroller with a touch 
 
 ESP32S3-MultiMedia combines hardware and software to create a smartphone-like experience with a range of applications accessible through a touch interface. The project demonstrates the capabilities of the ESP32-S3 for multimedia applications and sensor integration.
 
+
+https://github.com/user-attachments/assets/e9c8f42a-1456-476b-8774-80f681d50dbd
+
+
+
 ## Features
 
 - **Touch Screen Interface**: Intuitive app-based navigation system
